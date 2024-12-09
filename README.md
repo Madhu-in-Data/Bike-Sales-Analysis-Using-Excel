@@ -59,7 +59,7 @@ Analyzed the average income by gender and further grouped it by bike purchase st
 - Male customers who purchased bikes had a higher average income compared to those who did not.  
 - Similarly, female customers who purchased bikes earned slightly more than those who did not, but the difference was less pronounced compared to males.  
 
----
+
 
 #### 2. **Commute Distance vs Bike Purchase**   
 Counted bike purchases for each commute distance and ensured commute distances were sorted correctly by renaming "10+ miles" to "More than 10 miles".  
@@ -68,7 +68,7 @@ Counted bike purchases for each commute distance and ensured commute distances w
 - Customers commuting 0–1 mile and 2–5 miles were more likely to purchase bikes.  
 - Longer commute distances (more than 10 miles) had lower purchase rates, potentially due to the impracticality of biking for such distances.  
 
----
+
 
 #### 3. **Age Bracket vs Bike Purchase**   
 Grouped customers by age bracket and analyzed bike purchases within each group.  
@@ -77,7 +77,7 @@ Grouped customers by age bracket and analyzed bike purchases within each group.
 - Middle-aged customers (31–54 years) had the highest bike purchase rates, likely due to higher disposable incomes and an interest in fitness or leisure.  
 - Adolescent and older customers were less likely to purchase bikes, possibly due to limited income or physical limitations.  
 
----
+
 
 #### 4. **Customer Profession vs Bike Purchase**   
 Analyzed bike purchases across different professions to identify trends.  
@@ -86,7 +86,7 @@ Analyzed bike purchases across different professions to identify trends.
 - Professionals had the highest bike purchase rates, likely due to their higher income levels and a preference for biking as a leisure activity.  
 - Clerical, management, and skilled manual workers showed lower purchase rates, indicating a potential market segment for targeted marketing.  
 
----
+
 
 #### 5. **Cars Owned vs Bike Purchase**   
 Examined the number of cars owned by customers and its relationship with bike purchases.  
@@ -95,7 +95,7 @@ Examined the number of cars owned by customers and its relationship with bike pu
 - Customers with zero or one car were more likely to purchase bikes, potentially viewing them as an alternative mode of transport.  
 - Customers owning two or more cars showed significantly lower bike purchase rates, indicating that they rely more on cars for transportation.  
 
----
+
 
 ### **Use of Interactive Filters**  
 To provide a dynamic exploration of the data, interactive filters were created for the following attributes:  
