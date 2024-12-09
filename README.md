@@ -29,7 +29,7 @@ The dataset contains the following columns:
 - **Commute Distance:** Distance the customer commutes to work  
 - **Region:** Geographical region of the customer  
 - **Age:** Age of the customer  
-- **Purchased Bike?:** Whether the customer purchased a bike  
+- **Purchased Bike:** Whether the customer purchased a bike  
 
 
 
@@ -55,14 +55,20 @@ Below is the breakdown of analyses performed, along with the insights derived:
 #### 1. **Income vs Bike Purchase**  
 Analyzed the average income by gender and further grouped it by bike purchase status to identify trends.  
 
+<img width="398" alt="Screenshot 2024-12-09 at 9 57 47 PM" src="https://github.com/user-attachments/assets/c0e1aaf3-483a-4336-969b-f7a9ad41ad84">
+
 **Insight:**  
 - Male customers who purchased bikes had a higher average income compared to those who did not.  
 - Similarly, female customers who purchased bikes earned slightly more than those who did not, but the difference was less pronounced compared to males.  
 
 
 
+
+
 #### 2. **Commute Distance vs Bike Purchase**   
 Counted bike purchases for each commute distance and ensured commute distances were sorted correctly by renaming "10+ miles" to "More than 10 miles".  
+
+<img width="398" alt="Screenshot 2024-12-09 at 9 57 59 PM" src="https://github.com/user-attachments/assets/4b485a77-fb6c-42fb-8a0b-a348cc278f4f">
 
 **Insight:**  
 - Customers commuting 0–1 mile and 2–5 miles were more likely to purchase bikes.  
@@ -70,8 +76,12 @@ Counted bike purchases for each commute distance and ensured commute distances w
 
 
 
+
+
 #### 3. **Age Bracket vs Bike Purchase**   
 Grouped customers by age bracket and analyzed bike purchases within each group.  
+
+<img width="383" alt="Screenshot 2024-12-09 at 9 58 36 PM" src="https://github.com/user-attachments/assets/779144d3-a6ef-4fe2-95ed-4d3e5bcd7831">
 
 **Insight:**  
 - Middle-aged customers (31–54 years) had the highest bike purchase rates, likely due to higher disposable incomes and an interest in fitness or leisure.  
@@ -79,8 +89,12 @@ Grouped customers by age bracket and analyzed bike purchases within each group.
 
 
 
+
+
 #### 4. **Customer Profession vs Bike Purchase**   
 Analyzed bike purchases across different professions to identify trends.  
+
+<img width="398" alt="Screenshot 2024-12-09 at 9 58 10 PM" src="https://github.com/user-attachments/assets/23c3c8d8-7afd-4f98-b402-81b7261ad58d">
 
 **Insight:**  
 - Professionals had the highest bike purchase rates, likely due to their higher income levels and a preference for biking as a leisure activity.  
@@ -88,8 +102,12 @@ Analyzed bike purchases across different professions to identify trends.
 
 
 
+
+
 #### 5. **Cars Owned vs Bike Purchase**   
 Examined the number of cars owned by customers and its relationship with bike purchases.  
+
+<img width="383" alt="Screenshot 2024-12-09 at 9 58 24 PM" src="https://github.com/user-attachments/assets/768b1274-70ac-4370-a344-c01daf2c344f">
 
 **Insight:**  
 - Customers with zero or one car were more likely to purchase bikes, potentially viewing them as an alternative mode of transport.  
@@ -104,7 +122,10 @@ To provide a dynamic exploration of the data, interactive filters were created f
 - **Region**  
 - **Home Ownership**  
 
-These filters enable users to drill down into specific segments and uncover patterns. For example, filtering by "Region" can help identify geographical trends in bike purchases, while filtering by "Marital Status" can reveal purchasing behaviors of married vs. single customers.
+These filters enable users to drill down into specific segments and uncover patterns.
+For example, filtering by "Region" can help identify geographical trends in bike purchases, while filtering by "Marital Status" can reveal purchasing behaviors of married vs. single customers.
+
+<img width="1400" alt="Screenshot 2024-12-09 at 10 09 12 PM" src="https://github.com/user-attachments/assets/a758a9ec-de89-4b46-8175-fff7324243ca">
 
 ---
 
