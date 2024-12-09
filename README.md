@@ -125,7 +125,7 @@ To provide a dynamic exploration of the data, interactive filters were created f
 These filters enable users to drill down into specific segments and uncover patterns.
 For example, filtering by "Region" can help identify geographical trends in bike purchases, while filtering by "Marital Status" can reveal purchasing behaviors of married vs. single customers.
 
-<img width="1400" alt="Screenshot 2024-12-09 at 10 09 12 PM" src="https://github.com/user-attachments/assets/a758a9ec-de89-4b46-8175-fff7324243ca">
+<img width="1406" alt="Screenshot 2024-12-09 at 10 12 21 PM" src="https://github.com/user-attachments/assets/6da02624-f91c-4c9d-afc9-64b56294f46c">
 
 ---
 
